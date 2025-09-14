@@ -1,0 +1,38 @@
+REGISTO do funcionario ana com escalao 2
+REGISTO do funcionario bernardo com escalao 2
+REGISTO do funcionario carla com escalao 2
+REGISTO do funcionario diogo com escalao 2
+ERRO: Nao foi possivel registar o funcionario diogo
+REGISTO do funcionario elsa com escalao 1
+REGISTO do funcionario filipe com escalao 1
+REGISTO do funcionario gabriela com escalao 1
+REGISTO do funcionario hugo com escalao 1
+ATRIBUICAO de lugar a ana
+ATRIBUICAO de lugar a bernardo
+ATRIBUICAO de lugar a carla
+ATRIBUICAO de lugar a elsa
+ATRIBUICAO de lugar a filipe
+ATRIBUICAO de lugar a diogo
+O FUNCIONARIO ana tem LUGAR nr. 1
+O FUNCIONARIO elsa tem LUGAR nr. 4
+O FUNCIONARIO diogo tem LUGAR nr. 6
+ERRO: Nao foi possivel atribuir lugar a gabriela
+NAO EXISTE LUGAR de estacionamento atribuido a gabriela
+TOTAL de lugares atribuidos no escalao 1 : 2
+TOTAL de lugares atribuidos no escalao 2 : 4
+REMOCAO (nome) lugar 6, escalao 1, de diogo
+TOTAL de lugares atribuidos no escalao 1 : 2
+TOTAL de lugares atribuidos no escalao 2 : 3
+ATRIBUICAO de lugar a gabriela
+TOTAL de lugares atribuidos no escalao 1 : 3
+TOTAL de lugares atribuidos no escalao 2 : 3
+O DONO do lugar nr.2: bernardo
+REMOCAO (nr.) lugar 2, escalao 2
+TOTAL de lugares atribuidos: 5
+NAO EXISTE LUGAR de estacionamento atribuido a ines
+O DONO do lugar nr.1: ana
+LUGAR de estacionamento nr.2 SEM DONO atribuido
+O DONO do lugar nr.3: carla
+O DONO do lugar nr.4: elsa
+O DONO do lugar nr.5: filipe
+O DONO do lugar nr.6: gabriela
