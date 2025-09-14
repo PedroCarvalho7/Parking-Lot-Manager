@@ -1,0 +1,60 @@
+REGISTO do funcionario mara com escalao 1
+REGISTO do funcionario marta com escalao 1
+REGISTO do funcionario madalena com escalao 1
+REGISTO do funcionario matilde com escalao 1
+REGISTO do funcionario malaquias com escalao 1
+ERRO: Nao foi possivel registar o funcionario matilde
+REGISTO do funcionario antonio com escalao 2
+REGISTO do funcionario pedro com escalao 3
+REGISTO do funcionario bernardo com escalao 4
+REGISTO do funcionario joao com escalao 5
+REGISTO do funcionario joaquim com escalao 5
+REGISTO do funcionario joana com escalao 5
+REGISTO do funcionario jorge com escalao 5
+REGISTO do funcionario juvenal com escalao 5
+REGISTO do funcionario jonas com escalao 5
+ATRIBUICAO de lugar a mara
+ATRIBUICAO de lugar a malaquias
+ATRIBUICAO de lugar a marta
+ATRIBUICAO de lugar a madalena
+ERRO: Nao foi possivel atribuir lugar a matilde
+ATRIBUICAO de lugar a antonio
+ATRIBUICAO de lugar a pedro
+ATRIBUICAO de lugar a bernardo
+ATRIBUICAO de lugar a juvenal
+ATRIBUICAO de lugar a joao
+ATRIBUICAO de lugar a joaquim
+ATRIBUICAO de lugar a joana
+ERRO: Nao foi possivel atribuir lugar a jonas
+O FUNCIONARIO marta tem LUGAR nr. 19
+REMOCAO (nome) lugar 19, escalao 1, de marta
+ERRO: Nao foi possivel atribuir lugar a jorge
+NAO EXISTE LUGAR de estacionamento atribuido a jorge
+TOTAL de lugares atribuidos no escalao 5 : 4
+O DONO do lugar nr.4: joana
+REMOCAO (nr.) lugar 4, escalao 5
+TOTAL de lugares atribuidos no escalao 5 : 3
+ATRIBUICAO de lugar a jorge
+O DONO do lugar nr.4: jorge
+TOTAL de lugares atribuidos: 10
+NAO EXISTE LUGAR de estacionamento atribuido a tralala
+O DONO do lugar nr.1: juvenal
+O DONO do lugar nr.2: joao
+O DONO do lugar nr.3: joaquim
+O DONO do lugar nr.4: jorge
+O DONO do lugar nr.5: bernardo
+LUGAR de estacionamento nr.6 SEM DONO atribuido
+LUGAR de estacionamento nr.7 SEM DONO atribuido
+LUGAR de estacionamento nr.8 SEM DONO atribuido
+O DONO do lugar nr.9: pedro
+LUGAR de estacionamento nr.10 SEM DONO atribuido
+LUGAR de estacionamento nr.11 SEM DONO atribuido
+LUGAR de estacionamento nr.12 SEM DONO atribuido
+O DONO do lugar nr.13: antonio
+LUGAR de estacionamento nr.14 SEM DONO atribuido
+LUGAR de estacionamento nr.15 SEM DONO atribuido
+LUGAR de estacionamento nr.16 SEM DONO atribuido
+O DONO do lugar nr.17: mara
+O DONO do lugar nr.18: malaquias
+LUGAR de estacionamento nr.19 SEM DONO atribuido
+O DONO do lugar nr.20: madalena
