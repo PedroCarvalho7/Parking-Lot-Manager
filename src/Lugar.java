@@ -22,6 +22,7 @@ public class Lugar {
     public int obterEscalao() {
         return escalao;
     }
+    
 
     @Override
     public boolean equals(Object o) {
